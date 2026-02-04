@@ -11,3 +11,9 @@ A list of Sandbox in the agentic coding era
 ## [Cloudflare Sandbox](https://sandbox.cloudflare.com)
 
 - [GitHub](https://github.com/cloudflare/sandbox-sdk)
+- [Sandbox SDK](https://developers.cloudflare.com/sandbox)
+
+## [Deno Sandbox](https://console.deno.com/)
+
+- [GitHub - sandbox-py](https://github.com/denoland/sandbox-py)
+- [Docs](https://docs.deno.com/sandbox)
