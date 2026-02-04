@@ -17,3 +17,8 @@ A list of Sandbox in the agentic coding era
 
 - [GitHub - sandbox-py](https://github.com/denoland/sandbox-py)
 - [Docs](https://docs.deno.com/sandbox)
+
+## [Sprites](https://sprites.dev)
+
+- [Docs](https://docs.sprites.dev)
+- [TypeScript SDK](https://github.com/superfly/sprites-js)
