@@ -22,3 +22,8 @@ A list of Sandbox in the agentic coding era
 
 - [Docs](https://docs.sprites.dev)
 - [TypeScript SDK](https://github.com/superfly/sprites-js)
+
+## [boxlite](https://boxlite-ai.github.io/website)
+
+- [Python SDK](https://github.com/boxlite-ai/boxlite/tree/main/sdks/python)
+- [TypeScript SDK](https://github.com/boxlite-ai/boxlite/tree/main/sdks/node)
