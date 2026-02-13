@@ -48,3 +48,33 @@ A list of Sandbox in the agentic coding era
 - [Python SDK](https://github.com/modal-labs/modal-client)
 - [Live examples](https://modal.com/docs/examples)
 - Pricing: Sandbox compute is $0.00003942/core/second (physical core, min 0.125 cores per container) and memory is $0.00000672/GiB/second. See [pricing](https://modal.com/pricing).
+
+## [E2B](https://e2b.dev)
+
+- [GitHub](https://github.com/e2b-dev/e2b)
+- [Docs](https://e2b.dev/docs)
+- Pricing: Hobby is Free (+ usage costs) with a one-time $100 usage credit; Pro is $150/month (+ usage costs); Ultimate is Enterprise custom pricing. See [pricing](https://e2b.dev/pricing).
+
+## [Signadot Sandboxes](https://www.signadot.com/)
+
+- [Docs Overview](https://www.signadot.com/docs/overview)
+- [Sandboxes Docs](https://www.signadot.com/docs/reference/sandboxes)
+- Pricing: Starter is Free (50 sandboxes/month), and Business is $250/month (includes 100 sandboxes/month, 200 test invocations/month, 15 concurrent devboxes). See [pricing](https://www.signadot.com/pricing).
+
+## [CodeSandbox SDK](https://codesandbox.io/docs/sdk)
+
+- [SDK Docs](https://codesandbox.io/docs/sdk)
+- [SDK Pricing](https://codesandbox.io/docs/sdk/pricing)
+- Pricing: VM credits are $0.01486 per credit, billed with minute rounding. Example sizes: Pico is $0.0743/hour (2 cores, 1GB), Nano is $0.1486/hour (2 cores, 4GB), Micro is $0.2972/hour (4 cores, 8GB). Scale plan starts at $170/month/workspace. See [pricing](https://codesandbox.io/pricing).
+
+## [Browserbase](https://www.browserbase.com/)
+
+- [Docs](https://docs.browserbase.com/)
+- [Pricing](https://www.browserbase.com/pricing)
+- Pricing: Free is $0/month (1 concurrent browser, 1 browser-hour). Developer is $20/month (25 concurrency, 100 browser-hours, then $0.12/browser-hour and $12/GB proxy). Startup is $99/month (100 concurrency, 500 browser-hours, then $0.10/browser-hour and $10/GB proxy).
+
+## [Hyperbrowser](https://hyperbrowser.ai)
+
+- [Docs](https://hyperbrowser.ai/docs)
+- [Pricing Docs](https://hyperbrowser.ai/docs/pricing)
+- Pricing: Credit-based (1 credit = $0.001). Browser usage is 100 credits/hour ($0.10/hour), proxy data is 10,000 credits/GB ($10/GB), and scraping starts at 1 credit/page ($0.001/page).
