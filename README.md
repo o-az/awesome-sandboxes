@@ -117,7 +117,7 @@ A list of Sandbox in the agentic coding era
 ## [Quilt](https://www.quilt.sh)
 
 - [GitHub](https://github.com/ariacomputecompany/quilt-core)
-- Pricing: Open source (MIT/Apache-2.0), self-hosted.
+- Open source (MIT/Apache-2.0), self-hosted.
 
 ## [Beam Cloud](https://beam.cloud)
 
@@ -132,7 +132,7 @@ A list of Sandbox in the agentic coding era
 - [GitHub](https://github.com/kubernetes-sigs/agent-sandbox)
 - [GKE Docs](https://docs.cloud.google.com/kubernetes-engine/docs/how-to/agent-sandbox)
 - [Python SDK](https://github.com/kubernetes-sigs/agent-sandbox/tree/main/clients/python/agentic-sandbox-client)
-- Pricing: Open source (Apache-2.0), runs on your Kubernetes cluster. CNCF project under SIG Apps.
+- Open source (Apache-2.0). CNCF project under SIG Apps, runs on your Kubernetes cluster.
 
 ## [microsandbox](https://docs.microsandbox.dev)
 
@@ -140,9 +140,9 @@ A list of Sandbox in the agentic coding era
 - [Python SDK](https://pypi.org/project/microsandbox/)
 - [JavaScript SDK](https://www.npmjs.com/package/microsandbox)
 - [Rust SDK](https://crates.io/crates/microsandbox)
-- Pricing: Open source (Apache-2.0), self-hosted only.
+- Open source (Apache-2.0), self-hosted only.
 
 ## [LiteBox (Microsoft)](https://github.com/microsoft/litebox)
 
 - [GitHub](https://github.com/microsoft/litebox)
-- Pricing: Open source (MIT), experimental.
+- Open source (MIT), experimental.
