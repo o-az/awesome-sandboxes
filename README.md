@@ -78,3 +78,71 @@ A list of Sandbox in the agentic coding era
 - [Docs](https://hyperbrowser.ai/docs)
 - [Pricing Docs](https://hyperbrowser.ai/docs/pricing)
 - Pricing: Credit-based (1 credit = $0.001). Browser usage is 100 credits/hour ($0.10/hour), proxy data is 10,000 credits/GB ($10/GB), and scraping starts at 1 credit/page ($0.001/page).
+
+## [Blaxel](https://blaxel.ai)
+
+- [GitHub](https://github.com/blaxel-ai)
+- [Docs](https://docs.blaxel.ai)
+- [Python SDK](https://github.com/blaxel-ai/sdk-python)
+- [TypeScript SDK](https://github.com/blaxel-ai/sdk-typescript)
+- Pricing: Usage-based. See [pricing](https://blaxel.ai).
+
+## [Together Code Sandbox](https://www.together.ai/code-sandbox)
+
+- [Docs](https://docs.together.ai/docs/together-code-sandbox)
+- [TypeScript SDK](https://github.com/codesandbox/codesandbox-sdk)
+- Pricing: Uses CodeSandbox SDK infrastructure. $0.0446/vCPU-hour plus $0.0149/GiB RAM/hour. Self-serve via CodeSandbox at $0.01486/credit. See [pricing](https://docs.together.ai/docs/together-code-sandbox).
+
+## [Northflank Sandboxes](https://northflank.com/product/sandboxes)
+
+- [Docs](https://northflank.com/docs/v1/application/overview)
+- [API Reference](https://northflank.com/docs/v1/api/introduction)
+- Pricing: CPU at $0.01667/vCPU-hour, memory at $0.00833/GB-hour, disk at $0.15/GB/month, networking at $0.06/GB. GPU (H100) at $2.74/hour. See [pricing](https://northflank.com/pricing).
+
+## [Koyeb Sandboxes](https://www.koyeb.com)
+
+- [GitHub](https://github.com/koyeb)
+- [Docs](https://www.koyeb.com/docs)
+- [CLI](https://github.com/koyeb/koyeb-cli)
+- Pricing: Starter Free, Pro $29/month, Scale $299/month. CPU from $0.0149/vCPU-hour, GPUs from $0.50/hour (RTX 4000 SFF ADA). See [pricing](https://www.koyeb.com/pricing).
+
+## [Runloop](https://runloop.ai)
+
+- [GitHub](https://github.com/runloopai)
+- [Docs](https://docs.runloop.ai)
+- [Python SDK](https://github.com/runloopai/api-client-python)
+- [TypeScript SDK](https://github.com/runloopai/api-client-ts)
+- Pricing: Basic Free + usage ($50 credit), Pro $250/month + usage. Compute: $0.108/CPU-hour, memory: $0.0252/GB-hour. See [pricing](https://runloop.ai/pricing).
+
+## [Quilt](https://www.quilt.sh)
+
+- [GitHub](https://github.com/ariacomputecompany/quilt-core)
+- Pricing: Open source (MIT/Apache-2.0), self-hosted.
+
+## [Beam Cloud](https://beam.cloud)
+
+- [GitHub](https://github.com/beam-cloud/beta9)
+- [Docs](https://docs.beam.cloud)
+- [Python SDK](https://github.com/beam-cloud/beam-client)
+- [TypeScript SDK](https://github.com/beam-cloud/beam-js)
+- Pricing: Open source (AGPL-3.0), self-hostable. Cloud: $30 free credits/month, usage-based by the millisecond. See [pricing](https://docs.beam.cloud/v2/resources/pricing).
+
+## [Google Agent Sandbox (k8s-sigs)](https://agent-sandbox.sigs.k8s.io)
+
+- [GitHub](https://github.com/kubernetes-sigs/agent-sandbox)
+- [GKE Docs](https://docs.cloud.google.com/kubernetes-engine/docs/how-to/agent-sandbox)
+- [Python SDK](https://github.com/kubernetes-sigs/agent-sandbox/tree/main/clients/python/agentic-sandbox-client)
+- Pricing: Open source (Apache-2.0), runs on your Kubernetes cluster. CNCF project under SIG Apps.
+
+## [microsandbox](https://docs.microsandbox.dev)
+
+- [GitHub](https://github.com/zerocore-ai/microsandbox)
+- [Python SDK](https://pypi.org/project/microsandbox/)
+- [JavaScript SDK](https://www.npmjs.com/package/microsandbox)
+- [Rust SDK](https://crates.io/crates/microsandbox)
+- Pricing: Open source (Apache-2.0), self-hosted only.
+
+## [LiteBox (Microsoft)](https://github.com/microsoft/litebox)
+
+- [GitHub](https://github.com/microsoft/litebox)
+- Pricing: Open source (MIT), experimental.
