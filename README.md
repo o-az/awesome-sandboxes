@@ -89,6 +89,17 @@ A list of Sandbox in the agentic coding era (ordered by popularity)
 - [TypeScript SDK](https://github.com/beam-cloud/beam-js)
 - Pricing: Open source (AGPL-3.0), self-hostable. Cloud: $30 free credits/month, usage-based by the millisecond. See [pricing](https://docs.beam.cloud/v2/resources/pricing).
 
+## [OpenSandbox](https://open-sandbox.ai)
+
+⭐ 2,200+ GitHub stars · Alibaba-backed · Open source (Apache-2.0)
+
+- [GitHub](https://github.com/alibaba/OpenSandbox)
+- [Python SDK](https://github.com/alibaba/OpenSandbox/tree/main/clients/python)
+- [JavaScript SDK](https://github.com/alibaba/OpenSandbox/tree/main/clients/javascript)
+- [Java SDK](https://github.com/alibaba/OpenSandbox/tree/main/clients/java)
+- [C# SDK](https://github.com/alibaba/OpenSandbox/tree/main/clients/csharp)
+- Open source (Apache-2.0), self-hosted. Supports Docker and Kubernetes runtimes.
+
 ## [LiteBox (Microsoft)](https://github.com/microsoft/litebox)
 
 ⭐ 1,430+ GitHub stars · Microsoft-backed · Open source (MIT), experimental
