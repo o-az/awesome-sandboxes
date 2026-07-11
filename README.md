@@ -61,6 +61,14 @@ A list of Sandbox in the agentic coding era (ordered by popularity)
 - [Sandbox SDK](https://developers.cloudflare.com/sandbox)
 - Pricing: Uses Cloudflare Containers pricing (plus Workers, Durable Objects, and optional Workers Logs). Containers overage rates: $0.000020/vCPU-second, $0.0000025/GiB-second memory, $0.00000007/GB-second disk. See [Sandbox pricing](https://developers.cloudflare.com/sandbox/platform/pricing/) and [Containers pricing](https://developers.cloudflare.com/containers/pricing/).
 
+## [smolvm](https://github.com/smol-machines/smolvm)
+
+⭐ 4,300+ GitHub stars · Open source (Apache-2.0), self-hosted
+
+- [GitHub](https://github.com/smol-machines/smolvm)
+- microVM sandboxes on libkrun (Linux KVM, macOS HVF); runs OCI images as VMs and copy-on-write forks a running VM (RAM+disk) 1→N in ~150ms for agent rollouts.
+- Open source (Apache-2.0), self-hosted.
+
 ## [microsandbox](https://docs.microsandbox.dev)
 
 ⭐ 4,800+ GitHub stars · Open source (Apache-2.0), self-hosted
