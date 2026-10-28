@@ -176,6 +176,16 @@ A list of Sandbox in the agentic coding era (ordered by popularity)
 - [Docs](https://docs.deno.com/sandbox)
 - Pricing: $0.05/CPU-hour, $0.016/GiB-hour memory, and $0.20/GiB-month volume usage. See [pricing](https://deno.com/deploy/sandbox#sandbox-pricing).
 
+
+## [CreateOS Sandbox](https://createos.sh/products/sandbox)
+
+⭐ Managed Firecracker microVMs for AI agents · Own kernel, private networking, pause-to-zero with state · No egress fees
+
+- [Product](https://createos.sh/products/sandbox)
+- [Docs](https://createos.sh/docs/Sandbox/Overview)
+- [TypeScript SDK](https://github.com/NodeOps-app/createos-sandbox-sdk)
+- Pricing: Per-second billing; see [pricing](https://createos.sh/pricing/sandbox). npm `@nodeops-createos/sandbox`.
+
 ## [Signadot Sandboxes](https://www.signadot.com/)
 
 ⭐ Niche microservices testing platform
