@@ -190,3 +190,12 @@ A list of Sandbox in the agentic coding era (ordered by popularity)
 
 - [GitHub](https://github.com/ariacomputecompany/quilt-core)
 - Open source (MIT/Apache-2.0), self-hosted.
+
+## [Sandscale](https://sandscale.dev)
+
+⭐ Hosted Firecracker microVMs per agent run · Early-stage
+
+- [Docs](https://sandscale.dev/docs)
+- [TypeScript SDK](https://github.com/sandscale/sandscale-js)
+- [Remote MCP server](https://sandscale.dev/sandboxes/mcp)
+- Pricing: Free plan, Pro $25/month, Team $48/member/month, Enterprise; usage billed per awake vCPU-hour. See [pricing](https://sandscale.dev/pricing).
